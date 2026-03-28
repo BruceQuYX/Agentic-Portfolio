@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "行业",
+  "L3_sub_theme": "银行",
+  "confidence": 1.0,
+  "reasoning": "名称直接包含银行，为行业指数"
+}

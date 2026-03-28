@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证180",
+  "confidence": 0.9,
+  "reasoning": "代码510357对应上证180ETF，属宽基"
+}

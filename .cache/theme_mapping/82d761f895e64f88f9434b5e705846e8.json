@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "债券",
+  "L2_theme": "利率债",
+  "L3_sub_theme": "政策性金融债",
+  "confidence": 0.95,
+  "reasoning": "名称“政金债”即政策性金融债，属利率债"
+}

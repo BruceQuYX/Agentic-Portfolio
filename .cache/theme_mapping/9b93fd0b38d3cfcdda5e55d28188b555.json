@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "行业",
+  "L3_sub_theme": "芯片",
+  "confidence": 1.0,
+  "reasoning": "名称直接含‘芯片’，对应芯片细分行业"
+}

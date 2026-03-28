@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证85",
+  "confidence": 0.75,
+  "reasoning": "代码510385.SH，简称ETF-85，按上交所惯例5103xx段为上证系列宽基指数，'85'对应上证85指数"
+}

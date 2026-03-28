@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证90",
+  "confidence": 0.75,
+  "reasoning": "代码510397对应上证90指数ETF，名称缩写为ETF-97，判定为宽基指数"
+}

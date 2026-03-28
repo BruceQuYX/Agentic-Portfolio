@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "深证成指",
+  "confidence": 0.95,
+  "reasoning": "名称“深成ETF”即跟踪深证成指，属A股宽基"
+}

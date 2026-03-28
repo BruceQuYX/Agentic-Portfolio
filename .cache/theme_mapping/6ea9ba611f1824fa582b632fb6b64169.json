@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "农产品",
+  "L3_sub_theme": "畜牧",
+  "confidence": 0.95,
+  "reasoning": "名称含“畜牧”，归为股票农产品主题下的畜牧子行业"
+}

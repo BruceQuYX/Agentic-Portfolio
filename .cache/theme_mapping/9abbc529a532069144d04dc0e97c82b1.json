@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "行业",
+  "L3_sub_theme": "证券",
+  "confidence": 1.0,
+  "reasoning": "名称直接包含证券，为行业指数"
+}

@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "行业",
+  "L3_sub_theme": "旅游",
+  "confidence": 0.95,
+  "reasoning": "名称含“旅游”，对应股票行业主题下的旅游子行业"
+}

@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证83",
+  "confidence": 0.75,
+  "reasoning": "代码510383.SH，简称ETF-83，按上交所惯例5103xx段为上证系列宽基指数，'83'对应上证83指数"
+}

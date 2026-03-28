@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "行业",
+  "L3_sub_theme": "新能源",
+  "confidence": 1.0,
+  "reasoning": "名称直接含‘光伏’，归属新能源赛道"
+}

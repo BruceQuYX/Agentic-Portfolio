@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "行业",
+  "L3_sub_theme": "医药",
+  "confidence": 1.0,
+  "reasoning": "名称直接含‘医疗’，归为医药细分"
+}

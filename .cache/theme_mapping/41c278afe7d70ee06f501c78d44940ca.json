@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "行业",
+  "L3_sub_theme": "房地产",
+  "confidence": 0.95,
+  "reasoning": "名称直接含“房地产”，判定为股票行业主题下的房地产子行业"
+}

@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "债券",
+  "L2_theme": "利率债",
+  "L3_sub_theme": "国债",
+  "confidence": 1.0,
+  "reasoning": "名称明确为“国债ETF”，属于债券利率债国债"
+}

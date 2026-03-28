@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "策略",
+  "L3_sub_theme": "民营主题",
+  "confidence": 0.9,
+  "reasoning": "名称‘民营ETF’指向民营主题策略指数"
+}

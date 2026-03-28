@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证65指数",
+  "confidence": 0.75,
+  "reasoning": "代码510365对应上证65ETF，名称ETF-65暗示跟踪上证65指数，属宽基权益类"
+}

@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "中证500",
+  "confidence": 0.9,
+  "reasoning": "代码510359对应中证500ETF，属宽基"
+}

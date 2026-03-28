@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证61指数",
+  "confidence": 0.75,
+  "reasoning": "代码510361对应上证61ETF，名称ETF-61暗示跟踪上证61指数，属宽基权益类"
+}

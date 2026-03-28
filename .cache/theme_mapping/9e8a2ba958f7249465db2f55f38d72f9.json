@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "科创50",
+  "confidence": 1.0,
+  "reasoning": "名称直接包含科创50，为科创板宽基指数"
+}

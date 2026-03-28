@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "中证500",
+  "confidence": 1.0,
+  "reasoning": "名称直接包含中证500，为中小盘宽基指数"
+}

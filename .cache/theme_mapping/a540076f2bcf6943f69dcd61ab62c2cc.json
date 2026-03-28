@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "债券",
+  "L2_theme": "利率债",
+  "L3_sub_theme": "10年期国债",
+  "confidence": 0.95,
+  "reasoning": "名称含“十年国债”，直接对应10年期国债利率债"
+}

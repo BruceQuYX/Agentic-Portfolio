@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证180",
+  "confidence": 1.0,
+  "reasoning": "名称直接包含180，对应上证180宽基指数"
+}

@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证72",
+  "confidence": 0.75,
+  "reasoning": "代码510372对应上证72指数，属于沪市大盘宽基"
+}

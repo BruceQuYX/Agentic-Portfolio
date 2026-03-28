@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "能源",
+  "L3_sub_theme": "煤炭",
+  "confidence": 0.95,
+  "reasoning": "名称含“煤炭”，归为股票能源主题下的煤炭子行业"
+}

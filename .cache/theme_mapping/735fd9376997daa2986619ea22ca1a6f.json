@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证60指数",
+  "confidence": 0.75,
+  "reasoning": "代码510360对应上证60ETF，名称ETF-60暗示跟踪上证60指数，属宽基权益类"
+}

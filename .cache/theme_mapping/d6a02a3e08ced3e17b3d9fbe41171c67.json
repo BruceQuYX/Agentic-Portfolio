@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证63指数",
+  "confidence": 0.75,
+  "reasoning": "代码510363对应上证63ETF，名称ETF-63暗示跟踪上证63指数，属宽基权益类"
+}

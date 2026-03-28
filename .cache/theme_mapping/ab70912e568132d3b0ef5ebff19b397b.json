@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证50",
+  "confidence": 0.9,
+  "reasoning": "代码510356对应上证50ETF，属宽基"
+}

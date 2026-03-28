@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "创业板指",
+  "confidence": 0.95,
+  "reasoning": "名称‘创业板’即创业板指，属宽基"
+}

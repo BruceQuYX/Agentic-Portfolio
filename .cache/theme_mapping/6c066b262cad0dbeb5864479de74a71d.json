@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "策略",
+  "L3_sub_theme": "红利",
+  "confidence": 1.0,
+  "reasoning": "名称直接含‘红利’，归为红利策略"
+}

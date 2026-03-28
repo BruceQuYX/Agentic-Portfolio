@@ -1,0 +1,7 @@
+{
+  "L1_asset_class": "股票",
+  "L2_theme": "宽基",
+  "L3_sub_theme": "上证64指数",
+  "confidence": 0.75,
+  "reasoning": "代码510364对应上证64ETF，名称ETF-64暗示跟踪上证64指数，属宽基权益类"
+}
