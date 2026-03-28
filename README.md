@@ -1,4 +1,4 @@
-# Q-Macro: 宏观驱动 ETF 配置策略系统 Developed By Bruce Qu（屈筠翔）
+# Q-Macro: 宏观驱动 ETF 配置策略系统 Developed By Bruce Qu
 
 基于宏观视角的大类资产配置策略，结合传统量化规则与大语言模型（LLM）的混合架构智能体系统。通过美林时钟四象限模型识别经济周期，利用 LLM 解析政策文本提取投资主题，动态构建 ETF 投资组合并生成专业投资报告。
 
