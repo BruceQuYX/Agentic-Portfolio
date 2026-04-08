@@ -1,4 +1,4 @@
-# Q-Macro: 宏观驱动 ETF 配置策略系统 Developed By Bruce Qu
+# Q-Macro: 宏观驱动 ETF 配置策略系统
 
 基于宏观视角的大类资产配置策略，结合传统量化规则与大语言模型（LLM）的混合架构智能体系统。通过美林时钟四象限模型识别经济周期，利用 LLM 解析政策文本提取投资主题，动态构建 ETF 投资组合并生成专业投资报告。
 
@@ -23,14 +23,15 @@
 
 ## 项目架构
 
+```text
 Q-Macro/
 ├── data/                          # 数据层
 │   ├── etf/                       # ETF 量价与基本信息
 │   │   ├── etf_2025_ohlcva.csv    # 日频价格/成交量
-│   │   ├── etf_basic.csv          # 基本信息（名称、跟踪指数、规模）
-│   │   └── processed_etf_basic.csv # LLM 三级标签结果
-│   ├── macro_data/                # 原始宏观指标（CPI、PMI、PPI、工业增加值）
-│   ├── processed_macro_data/      # 时间对齐后的标准化数据
+│   │   ├── etf_basic.csv          # 基本信息
+│   │   └── processed_etf_basic.csv# LLM 三级标签结果
+│   ├── macro_data/                # 原始宏观指标
+│   ├── processed_macro_data/      # 标准化数据
 │   └── policy_texts/              # 非结构化政策文本
 │       └── govcn_2025.csv         # 政府文件/部委公告
 ├── src/
@@ -44,21 +45,23 @@ Q-Macro/
 │       └── report_writer.py       # 归因分析师：生成投资报告
 ├── scripts/                       # 可执行脚本
 │   ├── fetch_macro_data.py        # 从 AKShare 拉取宏观数据
-│	├──	fetch_etf_data.py		   # 从 AKShare 拉取ETF数据
-│   ├── generare_mock_etf.py       # Mock ETF 数据生成器
-│	├──	generate_sample_policy.py  # 政策文本示例生成器
+│   ├── fetch_etf_data.py          # 从 AKShare 拉取ETF数据
+│   ├── generate_mock_etf.py       # Mock ETF 数据生成器
+│   ├── generate_sample_policy.py  # 政策文本示例生成器
 │   ├── process_macro_data.py      # 数据清洗与时间格式统一
-│   ├──  run_monthly_pipeline.py    # 单月策略执行（核心流水线）
+│   └── run_monthly_pipeline.py    # 单月策略执行（核心流水线）
 ├── portfolios/                    # 输出：每月 ETF 组合权重（JSON）
 ├── reports/                       # 输出：月度投资报告（Markdown）
-├── results/backtest_results/      # 回测结果
-│   ├── nav_series.csv             # 策略与基准净值序列
-│   ├── metrics.txt                # 年化收益/夏普/最大回撤等指标
-│   ├── positions.csv              # 持仓记录
-│   └── charts/                    # 回测可视化图表
+├── results/
+│   └── backtest_results/          # 回测结果
+│       ├── nav_series.csv         # 策略与基准净值序列
+│       ├── metrics.txt            # 年化收益/夏普/最大回撤等指标
+│       ├── positions.csv          # 持仓记录
+│       └── charts/                # 回测可视化图表
 ├── Q-Macro.py                     # 一键运行入口（CLI）
 ├── pyproject.toml                 # 项目依赖配置
 └── .env.example                   # 环境变量模板（LLM API Key 等）
+```
 
 ## 模块详解
 
